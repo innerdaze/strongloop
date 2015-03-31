@@ -13,6 +13,7 @@ logs
 #node_modules
 node_modules/loopback-sdk-angular-cli
 node_modules/loopback-generator
+node_modules/strong-arc
 npm-debug.log
 pids
 results
