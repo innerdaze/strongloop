@@ -12,6 +12,7 @@ data
 logs
 #node_modules
 node_modules/loopback-sdk-angular-cli
+node_modules/loopback-generator
 npm-debug.log
 pids
 results
