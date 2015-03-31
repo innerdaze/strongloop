@@ -10,7 +10,8 @@
 .idea
 data
 logs
-node_modules
+#node_modules
+node_modules/loopback-sdk-angular-cli
 npm-debug.log
 pids
 results
